@@ -1,0 +1,6 @@
+<resources>
+<color name="colorPrimary">#263238</color>
+<color name="colorPrimaryDark">#000000</color>
+<color name="colorAccent">#FF4081</color>
+<!-- Define other colors for the dark theme here -->
+</resources>

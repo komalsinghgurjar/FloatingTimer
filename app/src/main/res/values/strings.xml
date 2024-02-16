@@ -1,36 +1,51 @@
 <resources>
-<string name="app_name">Exam Prep Timer</string>
-<string name="instructions_title">Instructions to Use Exam Prep Timer</string>
+<string name="app_name">Floating Timer</string>
+<string name="instructions_title">\nInstructions to Use</string>
 
 <string name="instructions_text">
-1. Start and Stop the Timer:\n
-- Tap the Timer to start or stop it. It will begin counting when you start and pause when you stop.
+1. Start and Stop:\n
+- Tap Floating Timer widget to START and tap again to PAUSE timer it.
 \n\n
 2. Reposition the Timer:\n
-- Easily move the Timer to your preferred location on the screen by dragging and releasing it.
-\n\n
-2. Reposition the Timer:\n
-- Easily move the Timer to your preferred location on the screen by dragging and releasing it.
+- Move Floating Timer widget to your preferred location by dragging and releasing it.
 \n\n
 3. Grant Overlay Permission:\n
-- Grant overlay permission to ensure proper functionality. This keeps the Timer visible when switching between apps.
+- Grant overlay permission to ensure essential functionality. This permission is required to keeps the Floating Timer widget visible on other apps.
 \n\n
 4. Reset the Timer:\n
-- Double-tap the Timer to reset it instantly, allowing you to time yourself for the next question.
+- Double-tap the Floating Timer widget to reset the timer starts from zero.
 \n\n
-5. Track Your Time:\n
-- Utilize the Timer to measure the time spent on each question. This helps gauge your speed and manage time effectively.
+5. Track Your Time:\n 
+- Utilize the Floating Timer to measure the time spent on study, fast question solving, varous other tasks, etc.
 \n\n
-Remember, Exam Prep Timer is designed to support your exam preparation. Good luck and happy studying!
+6. Exiting / Quitting:\n
+- To remove the widget, clear app from recents.
+\n\n
+Remember, Floating Timer was primarily designed to support your exam preparation, question solving time tracking while online classes for competative exams. Good day!!
+\n\n
+Email me for any feature request, improvement, etc.
 </string>
 <string name="contact">\n
-Email: komalsin9h@gmail.com\n
-Github: github.com/komalsin9h\n\n
-DonateUPI/QR: komalsinghgurjar@ibl\n
+Phone: +919369793618\n
+Tip UPI/QR: 9369793618@apl\n
+Email: komalsin9h@gmail.com\n\n
+Github: https://github.com/komalsinghgurjar\n
 </string>
+<string name="privacy_title">\nApp Privacy</string>
 <string name="privacy_notice">
-\nExam Prep Timer - Your Privacy Our Priority:\n\nNo unnecessory permission required not even have INTERNET permission, So this app can not connect/talk to Internet.\nNo analytics, ads or trackers used.\nNo storage, collection, sharing or transmission.\nMinimal permissions for essential functions.\nFree and open source, Fully build by me and code can checked on my github.\n\nEmail me for any query or app development\nor for something else..
-
+- Not even have internet permission.
+\n
+- Not unnecessory permissions.
+\n
+- Not any type of transmission, not even analytics.
+\n
+- Not type of data collection, storage, processing etc.
+\n
+- Lightweight and opensource on my github account.
+\n
+- Offline targated and made as personal hobby project.
+\n
+- Full code available on github for analyzing.
 </string>
 
 
